@@ -5,3 +5,5 @@ L_a = 0.0015
 R_a = 8
 L_ov = 0.013
 T_a = (L_ov + L_a)/R_a
+b = 0.001
+T_dv = J_dv/b
